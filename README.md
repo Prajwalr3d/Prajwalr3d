@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Prajwalr3d
-- 👀 I’m interested in astronomy...
-- 🌱 I’m currently learning .machine learnig..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Prajwal Surya
 
-<!---
-Prajwalr3d/Prajwalr3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Artificial Intelligence & Machine Learning Student
+
+My goal is to contribute to the development of intelligent systems that create measurable impact across healthcare, agriculture, automation, and scientific research.
+
+## Current Interests
+
+- Machine Learning
+- Large Language Models
+- Computer Vision
+- Data Analytics
+- AI Evaluation
+- Scientific Computing
+
+Outside academics, I actively participate in hackathons, build AI projects, and continuously strengthen my practical AI and data science skills.
