@@ -63,9 +63,26 @@ Outside academics, I actively participate in hackathons, build AI projects, and 
 
 ---
 
-###  House Price Prediction & Data Analysis
-- Performed end to end exploratory data analysis and feature engineering on housing datasets.
-- Identified influential features affecting property prices through statistical analysis and visualization.
-- Prepared clean datasets for machine learning model development.
+### 📊 Exploratory Data Analysis (Kaggle)
 
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-learn
+- Performed exploratory data analysis on real-world Kaggle datasets using Python.
+- Cleaned missing values, analyzed feature distributions, and identified relationships between variables.
+- Created visualizations to uncover patterns and support data-driven insights.
+- Strengthened practical skills in data preprocessing and statistical analysis.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Kaggle
+
+
+## 🏆 Certifications & Achievements
+
+- Kaggle Model Creator Certificate
+- Microsoft AI Skills Fest Participation Badge
+- Hackathon Participation Certificates (4)
+- University Quiz Participation Certificate
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalr3d&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalr3d&layout=compact&theme=transparent" height="170"/>
+</p>
