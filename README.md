@@ -59,7 +59,7 @@ Outside academics, I actively participate in hackathons, build AI projects, and 
 - Implemented features for tracking plant growth, maintenance schedules, and garden records.
 - Built with scalability for future AI-assisted recommendations.
 
-**Tech Stack:** Python
+**Tech Stack:** C
 
 ---
 
@@ -80,9 +80,10 @@ Outside academics, I actively participate in hackathons, build AI projects, and 
 - Hackathon Participation Certificates (4)
 - University Quiz Participation Certificate
 
-## 📈 GitHub Statistics
+## 📫 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalr3d&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalr3d&layout=compact&theme=transparent" height="170"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwalr3d)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/prajwalsurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-surya-368b643a5/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprajwal4@gmail.com)
+
